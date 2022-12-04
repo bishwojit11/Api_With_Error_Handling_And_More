@@ -1,0 +1,17 @@
+{
+  "name": "tour",
+  "version": "1.0.0",
+  "description": "a project that wil cover api, node, express, mongodb and more",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bishwojit Malo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^5.13.15",
+    "morgan": "^1.10.0"
+  }
+}
